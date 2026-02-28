@@ -1,0 +1,5 @@
+{
+  "name": "Integer Adder",
+  "description": "A simple application that adds two integers together.",
+  "requestFramePermissions": []
+}
